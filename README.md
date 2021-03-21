@@ -2,9 +2,10 @@
 this is an arch installation guide
 **note: this installation will only guide you to install the vanila arch linux with CLI.
 ![image](https://user-images.githubusercontent.com/51907689/111893773-03218300-8a40-11eb-9343-d3cc47674d55.png)
+# The start of installation
+## the installtion must have ethernet connected
 
-
--ping google.com
+- ping google.com "you must know if you have an internet connection"
 
 - timedatectl set-ntp true " this timedatectl is to configure the time and date"
 - timedatectl status
@@ -24,7 +25,7 @@ this is an arch installation guide
 - 3
     - 3rd
         - first default
-        - last - all the
+        - last - all the space "you can just hit enter"
 - t
     - first partition must be efi file system
         - 1 is for efi file system
