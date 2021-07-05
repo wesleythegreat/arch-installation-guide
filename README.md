@@ -86,4 +86,4 @@ this is based on the arch wiki installation guide
 # this installation does not have graphical interface, it only have CLI(command line input) interface
 ## In the new update they will have an installation guide
 ## just type this:
-python -m archinstall guided
+```python -m archinstall guided```
