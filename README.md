@@ -4,7 +4,7 @@ this is based on the arch wiki installation guide
 **note: this installation will only guide you to install the vanila arch linux with CLI.
 ![image](https://user-images.githubusercontent.com/51907689/111893773-03218300-8a40-11eb-9343-d3cc47674d55.png)
 # The start of installation
-## the installtion must have ethernet connected
+## the installation must have ethernet connected
 
 - ping google.com "you must know if you have an internet connection"
 
@@ -84,3 +84,6 @@ this is based on the arch wiki installation guide
 - umount -l /mnt
 - sudo reboot
 # this installation does not have graphical interface, it only have CLI(command line input) interface
+## In the new update they will have an installation guide
+## just type this:
+python -m archinstall guided
